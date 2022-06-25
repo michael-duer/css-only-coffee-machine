@@ -339,6 +339,16 @@
   border-top: 0px;
 }
 .coffee-medium__milk__frother__arm__three {
+  height: 50px;
+  width: 8px;
+  position: absolute;
+  background-color: var(--dark-grey);
+  right: -19.5px;
+  top: 65px;
+  border-radius: 0 0 15px 15px;
+  transform: rotate(11deg);
+}
+.coffee-medium__milk__frother__arm__four {
   width: 30px;
   height: 30px;
   position: absolute;
@@ -351,16 +361,6 @@
   border-width: 0px 0px 14px 14px;
   border-style: solid solid solid;
   transform: rotate(190deg);
-}
-.coffee-medium__milk__frother__arm__four {
-  height: 50px;
-  width: 8px;
-  position: absolute;
-  background-color: var(--dark-grey);
-  right: -20px;
-  top: 65.5px;
-  border-radius: 0 0 15px 15px;
-  transform: rotate(10deg);
 }
 .coffee-medium__cup {
   width: 80px;
